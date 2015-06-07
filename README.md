@@ -1,6 +1,18 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+Welcome to my "Classic Arcade Style Game"!
 
-for self-checking their submission.
+Click the following link to try it out:
+
+
+How to play?
+	Avoid the bugs and become a princess...
+
+	You will enter the world as a normal enough girl, but something compeles you towards the water.
+	Fulfill your destiny by dodging those disgusting looking bug thingies.
+
+	Use the directional arrows to move around (standard up/down/left/right applies here).
+
+	Apperently feeling a little buggy is contagious. If you touch one, you become one.
+	Yuck! Go wash yourself!
