@@ -5,6 +5,7 @@ Welcome to my "Classic Arcade Style Game"!
 
 Click the following link to try it out:
 
+http://github.com/ElevendyThree/ElevendyThree.github.io
 
 How to play?
 	Avoid the bugs and become a princess...
