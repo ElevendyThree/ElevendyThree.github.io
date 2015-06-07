@@ -5,12 +5,12 @@ Welcome to my "Classic Arcade Style Game"!
 
 Click the following link to try it out:
 
-http://github.com/ElevendyThree/ElevendyThree.github.io
+http://elevendythree.github.io/
 
 How to play?
 	Avoid the bugs and become a princess...
 
-	You will enter the world as a normal enough girl, but something compeles you towards the water.
+	You will enter the world as a normal enough girl, but something compels you towards the water.
 	Fulfill your destiny by dodging those disgusting looking bug thingies.
 
 	Use the directional arrows to move around (standard up/down/left/right applies here).
